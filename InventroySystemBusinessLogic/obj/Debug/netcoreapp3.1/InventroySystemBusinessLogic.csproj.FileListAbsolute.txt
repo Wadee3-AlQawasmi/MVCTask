@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\bin\Debug\netcoreapp3.1\InventroySystemBusinessLogic.deps.json
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\bin\Debug\netcoreapp3.1\InventroySystemBusinessLogic.dll
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\bin\Debug\netcoreapp3.1\InventroySystemBusinessLogic.pdb
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\bin\Debug\netcoreapp3.1\InventorySystemDataAccess.dll
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\bin\Debug\netcoreapp3.1\InventorySystemDataAccess.pdb
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.AssemblyInfo.cs
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.csproj.CopyComplete
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.dll
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.pdb
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\bin\Debug\netcoreapp3.1\InventroySystemBusinessLogic.runtimeconfig.json
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\bin\Debug\netcoreapp3.1\InventroySystemBusinessLogic.runtimeconfig.dev.json
+C:\inetpub\wwwroot\InventorySystem\InventroySystemBusinessLogic\obj\Debug\netcoreapp3.1\InventroySystemBusinessLogic.genruntimeconfig.cache
